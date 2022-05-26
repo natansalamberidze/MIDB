@@ -1,0 +1,2 @@
+# MIDB
+Otrais praktiskais darbs
